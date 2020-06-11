@@ -15,7 +15,7 @@ public class Student {
 	public void Cheating()
 	{
 		mathCheat.cheating();
-		System.out.println("My id is : "+id);
+		System.out.println("My ID is : "+id);
 	}
 	
 
